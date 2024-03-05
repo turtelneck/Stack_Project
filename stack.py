@@ -34,7 +34,7 @@ class Stack:
         self.top_node = None
         self._size = 0
 
-# Example usage:
+
 stack = Stack()
 
 stack.push(1)
